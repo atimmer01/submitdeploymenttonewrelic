@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<clients>
+  <client>
+    <id>0</id>
+    <Name>--- Maak keuze ---</Name>
+    <apiKey></apiKey>
+    <applicationId></applicationId>
+  </client>
+  <client>
+    <id>1</id>
+    <Name>Clientname</Name>
+    <apiKey>apiKey</apiKey>
+    <applicationId>12345</applicationId>
+  </client>
+</clients>
