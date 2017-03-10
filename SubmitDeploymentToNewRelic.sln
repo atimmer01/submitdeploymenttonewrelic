@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubmitDeploymentToNewRelic", "SubmitDeploymentToNewRelic\SubmitDeploymentToNewRelic.csproj", "{C25E06A6-B9E2-4AFA-8C9A-E00226D45770}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubmitDeploymentToNewRelic", "SubmitDeploymentToNewRelic.csproj", "{C25E06A6-B9E2-4AFA-8C9A-E00226D45770}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB035BAA-0D67-49A8-AF6D-FC733F518903}"
 	ProjectSection(SolutionItems) = preProject
